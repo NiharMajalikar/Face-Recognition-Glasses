@@ -33,3 +33,13 @@ Software Requirement:
 5. Battery/Power bank
 6. Earphones
 7. Glasses
+
+## Ultrasonic sensor
+
+1. Using HC-SR04.
+2. To measure the distance.
+3. 4 pins Device.
+4. Works on principle of ECHO.
+5. Distance can be calculated by,
+*Distance= (Time x Speed of Sound in Air (343 m/s))/2.*
+
